@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37151'
     url: http://www.gutenberg.org/2009/agents/37151
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34633#L-A.-B.-C.-de-l-aviationBiplans-et-monoplans
 gutenberg_bookshelf:
 - Technology
 - FR Sciences et Techniques
