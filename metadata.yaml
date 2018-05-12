@@ -1,0 +1,31 @@
+_repo: L-A.-B.-C.-de-l-aviationBiplans-et-monoplans_34633
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gastine, Louis
+    alias: Gastine, Louis Jules
+    birthdate: 1858
+    deathdate: 1935
+    gutenberg_agent_id: '37151'
+    url: http://www.gutenberg.org/2009/agents/37151
+description: ''
+gutenberg_bookshelf:
+- Technology
+- FR Sciences et Techniques
+gutenberg_issued: '2010-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34633'
+  lccn: '31022958'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Airplanes'
+title: 'L''A. B. C. de l''aviation: Biplans et monoplans'
+url: http://www.gutenberg.org/ebooks/34633
